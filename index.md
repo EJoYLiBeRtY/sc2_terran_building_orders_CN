@@ -236,7 +236,7 @@ VS好后与VF换挂件出运输机 升级2G2F
 13:35开始 对手Stats](https://www.bilibili.com/video/av50108941?t=1686&p=1)
 
 **流程**
-``` {.line-numbers, highlight=[]}
+``` {.line-numbers, highlight=[2,4,8,9,11,12,13,14,18,21]}
 慢气兵营开矿
 BB出完机枪后挂科技挂件
 科技挂件好后VF占用科技 BB飞起挂双倍
